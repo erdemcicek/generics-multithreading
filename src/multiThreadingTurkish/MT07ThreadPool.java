@@ -84,18 +84,4 @@ class GenerateThread extends Thread {
 		System.out.println(threadName + " has stopped running");
 		
 	}
-	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
