@@ -19,7 +19,7 @@ package multiThreadingTurkish;
 	 	public void join() : Bir thread olmesini (bitmesi) beklemek icin kullanilir.
 	 	public int getPriority() : Bir thread'in onceligini dondurur.
 	 	public void setPriority(int priority) : Bir thread icin oncelik ayarlamaya yarar.
-	 	public String getName() : Bir threadçin adini dondurur.
+	 	public String getName() : Bir threadÃ§in adini dondurur.
 	 	public void setName() : Bir thread'e isim vermeye yarar.
 	 	public Thread currentThread() : Su an calisan thread'in referansini dondurur.
 	 	public int getId() : Bir thread'in id numarasini dondurur.
@@ -113,21 +113,4 @@ class CounterMultiThread extends Thread{
 	public void run() {
 		counter();
 	}
-	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
