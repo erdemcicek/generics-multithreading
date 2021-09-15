@@ -54,27 +54,5 @@ public class MT05Volatile {
 		th2.start();
 		
 	}
-	
-	
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
